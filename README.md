@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hophachamber99
 - 👀 I’m interested in Web Development and SEO
 - 🌱 I’m currently learning Phd in Data Science
-- 💞️ I’m looking to collaborate on anything related to SEO
+- 💞️ I’m looking to collaborate on anything related to my side project at https://www.kimcuongdaquy.info
 - 📫 How to reach me 3consau@gmail.com
 
 <!---
